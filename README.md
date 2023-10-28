@@ -6,6 +6,7 @@
   
   - For.
   - While.
+  - ForEach.
 
   ___
   ### Estrutura de Repetição For :
