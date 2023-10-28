@@ -11,3 +11,5 @@ ____
   - [Tipos de Dados](https://github.com/henferreirapro/estudos-java/tree/2-tipos-dados)
 
   - [Estruturas Condicionais](https://github.com/henferreirapro/estudos-java/tree/3-estruturas-condicionais)
+
+  - [Estruturas de Repetições](https://github.com/henferreirapro/estudos-java/tree/4-estruturas-repeticao)
