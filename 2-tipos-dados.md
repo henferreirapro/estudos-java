@@ -12,7 +12,7 @@
 
 ___
 <h3>Como Declarar as Variaveis de Cada Tipo :</h3>
-  <img src="1-estrutura-classe/img/2-tipos-dados-java.png">
+  <img src="2-tipos-dados/img/2-tipos-dados-java.png">
 
   - Dentro da nossa classe, nós criamos um exemplo para cada tipo.
 
