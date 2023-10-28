@@ -6,4 +6,8 @@ ____
 ## Java
   - [Configuração de Ambiente](https://efficient-sloth-d85.notion.site/Configura-o-de-ambiente-Java-ed669fd2bf074d168689c7517359788c)
 
-  - [Estrutura de Classe]()
+  - [Estrutura de Classe](https://github.com/henferreirapro/estudos-java/tree/1-estrutura-classe)
+
+  - [Tipos de Dados](https://github.com/henferreirapro/estudos-java/tree/2-tipos-dados)
+
+  - [Estruturas Condicionais](https://github.com/henferreirapro/estudos-java/tree/3-estruturas-condicionais)
