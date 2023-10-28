@@ -34,6 +34,26 @@
   Por Exemplo eu posso executar o While enquanto o nome ``João`` não for digitado.
 
   ___
+  ### Estrutura de Repetição ForEach :
+  <img src="4-estruturas-repeticao/img/4.2-estrutura-foreach-java.png">
+
+  - Nós criamos uma ``lista`` na ``linha 8`` e add strings a ela, na linha 11, 12 e 13.
+
+  - Na ``linha 16`` nós chamamos o nosso ``ForEach junto com a lista`` que desejamos percorrer.
+
+  - Diferente do ``for`` o ``foreach`` é chamado junto com uma lista ou array.
+
+  - Dentro dele nós passamos uma ``variavel chamada pessoa``, que ira receber cada item da nossa lista.
+
+  - E depois nós adicionamos um ``traço com seta (->)`` e usamos um print para mostrar o que tem em cada posição da nossa lista de forma simples.
+
+  O ForEach é bem parecido com o For, más a utilização dele é mais simplificada.
+
+  Ele é utilizada para percorrer ``arrays``, ``listas``, ``conjuntos`` de maneira simples. 
+  
+  É especialmente útil quando você deseja ``mostrar todos os elementos`` da lista sem se preocupar com os ``índices ou posições``.
+
+  ___
   ### Código Para Copiar :
 
   #### Estrutura For: 
@@ -74,4 +94,32 @@
     }
 
   
+  ```
+
+  #### Estrutura do ForEach :
+  ```bash
+
+    import java.util.ArrayList;
+    import java.util.List;
+
+    public class EstruturaForEach {
+      public static void main(String[] args) {
+
+        // criando uma lista
+        List<String> nomesPessoas = new ArrayList<>();
+
+        // add pessoas a lista
+        nomesPessoas.add("Julio");
+        nomesPessoas.add("Elen");
+        nomesPessoas.add("Henrique");
+        
+        // usando forEach para mostrar as pessoas
+        nomesPessoas.forEach( pessoa -> System.out.println("O nome da pessoa é: " + pessoa + "."));
+
+
+        System.out.println("\nForEach finalizado!");
+      }
+      
+    }
+
   ```
