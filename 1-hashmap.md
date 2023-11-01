@@ -1,4 +1,4 @@
-<h1 align="center">HashMap</h1>
+<h1 align="center">Mapas - HashMap</h1>
 
   - ``HashMap`` é uma ``estrutura de dados`` do Java que permite armazenar pares de ``chave`` e ``valor``. <br>
   É importante respeitar os tipos de chave e valor definidos ao adicionar elementos ao HashMap.

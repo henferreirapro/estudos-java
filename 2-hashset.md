@@ -1,4 +1,4 @@
-<h1 align="center">HashSet</h1>
+<h1 align="center">Conjuntos - HashSet</h1>
 
   - HashSet é uma coleção no Java que armazena ``elementos únicos``.
 
