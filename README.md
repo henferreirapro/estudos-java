@@ -15,4 +15,4 @@ ___
   - [Listas](https://github.com/henferreirapro/estudos-java/tree/5-listas)
 
 #### Mapas com HashMap :
-  - [Mapas - HashMap]()
+  - [Mapas - HashMap](https://github.com/henferreirapro/estudos-java/blob/6-colecoes/1-hashmap.md)

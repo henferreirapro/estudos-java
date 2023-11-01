@@ -1,9 +1,10 @@
 <h1 align="center">HashMap</h1>
 
-  <img src="6-colecoes/img/6.1-mapas-hashmap.png">
-
   - ``HashMap`` é uma ``estrutura de dados`` do Java que permite armazenar pares de ``chave`` e ``valor``. <br>
   É importante respeitar os tipos de chave e valor definidos ao adicionar elementos ao HashMap.
+
+___
+  <img src="6-colecoes/img/6.1-mapas-hashmap.png">
 
   - Na ``linha 7`` nós criamos uma estrutura de ``HashMap``. <br>
     Assim que chamamos o ``Map`` precisamos passar dentro dele qual será o tipo da chave e valor que ele receberá, nesse caso ele receberá uma ``chave do tipo String`` e um ``valor do tipo Integer``.
