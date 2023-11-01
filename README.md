@@ -15,4 +15,9 @@ ___
   - [Listas](https://github.com/henferreirapro/estudos-java/tree/5-listas)
 
 #### Mapas com HashMap :
+  
   - [Mapas - HashMap](https://github.com/henferreirapro/estudos-java/blob/6-colecoes/1-hashmap.md)
+
+### Conjuntos com HashSet :
+
+  - [Conjuntos - HashSet](https://github.com/henferreirapro/estudos-java/blob/6-colecoes/2-hashset.md)
