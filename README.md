@@ -15,3 +15,5 @@ ____
   - [Estruturas de Repetições](https://github.com/henferreirapro/estudos-java/tree/4-estruturas-repeticao)
 
   - [O básico Sobre Listas](https://github.com/henferreirapro/estudos-java/tree/5-listas)
+
+  - [Coleções - HashMap | HashSet](https://github.com/henferreirapro/estudos-java/tree/6-colecoes)
