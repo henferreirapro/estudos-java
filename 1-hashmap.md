@@ -31,6 +31,7 @@ ___
   - Nas ``linhas 26 e 27`` criamos duas variaveis, a ``primeira`` receberá o valor da nossa ``Key`` e a segunda com nome de ``notaAluno`` receberá o ``value``.
     Para que isso aconteça nós chamamos a ``variavel entrada`` e depois usamos o método ``.getKey( )`` para receber a ``Key`` do nosso ``Map`` e o ``.get.Value( )`` para receber o value da nossa ``Key``.
 
+  OBS: HashMap recebe ``chaves unicas``, caso seja passado uma ``mesma Key`` com um ``value diferente``, ele irá considerar o ``ultimo value`` como o value ``atual da Key``.
 ___
 ### Código Para Copiar :
   ```bash
